@@ -1,0 +1,2 @@
+# CashControl
+Finnace management tool. 
