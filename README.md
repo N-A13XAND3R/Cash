@@ -1,2 +1,2 @@
-# CashControl
+# 
 Finnace management tool. 
