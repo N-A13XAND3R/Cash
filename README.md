@@ -1,2 +1,2 @@
 # 
-Finnace management tool. 
+Finance management tool. 
